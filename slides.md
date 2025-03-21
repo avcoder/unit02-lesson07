@@ -73,7 +73,7 @@ transition: slide-left
 - How does the web work?   
 - What is RESTful architecture and how do computers use it to communicate?
 - Intro to HTTP methods (GET, POST...) and Status Codes (200, 404...)
-- Challenge: recreate email inbox using [PureCSS template](https://pure-css.github.io/layouts/)
+- Challenge: recreate email inbox using [PureCSS template](https://pure-css.github.io/layouts/) and [randomuser API](https://randomuser.me/)
 
 <!--
 -->
