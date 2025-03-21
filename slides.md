@@ -42,8 +42,8 @@ transition: slide-left
 
 - recall asynchronous functions
 - localStorage
-- Challenge: create search input box to search for cities, show dropdown suggestions that filter city name based on key stroke...
-   - ...After selecting the city, add a marker to leaflet map
+- Challenge: create search input box to search for airports using this [JSON](https://raw.githubusercontent.com/mwgg/Airports/refs/heads/master/airports.json), show dropdown suggestions that filter airport name based on key stroke...
+   - ...After selecting the airport, add a marker to leaflet map
 
 <style>
 h1 {
